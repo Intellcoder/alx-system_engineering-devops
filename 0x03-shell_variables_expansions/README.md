@@ -1,1 +1,1 @@
-readme file for shell variable 3
+this is shell variable 3
